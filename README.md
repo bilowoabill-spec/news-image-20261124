@@ -1,8 +1,8 @@
 # Sofia's 24 November News Front Page
 
-[![Competition](https://make.fun/badge/competition/news-image-20261124)](https://make.fun/bounty/news-image-20261124)
-[![Rank](https://make.fun/badge/rank/bilowoabill-spec/news-image-20261124)](https://make.fun/bounty/news-image-20261124)
-[![Reward](https://make.fun/badge/reward/bilowoabill-spec/news-image-20261124)](https://make.fun/bounty/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/bilowoabill-spec/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/bilowoabill-spec/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 A one-image front page summing up the world news of **Tuesday, 24 November 2026**,
 drawn entirely in code: `render.py` (pure Python 3 stdlib, with its own bitmap
